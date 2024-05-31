@@ -19,6 +19,6 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/sudoku-solver.git
+git clone https://github.com/DhineshLoganathan/sudoku-solver.git
 cd sudoku-solver
 
