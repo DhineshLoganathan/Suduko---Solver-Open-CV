@@ -19,6 +19,6 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/DhineshLoganathan/sudoku-solver.git
+git clone [https://github.com/DhineshLoganathan/sudoku-solver.git](https://github.com/DhineshLoganathan/Suduko---Solver-Open-CV/blob/main/)
 cd sudoku-solver
 
